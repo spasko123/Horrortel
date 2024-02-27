@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="circular">
+        <item name="cornerSizeTopRight">8dp</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+    </style>
+    <style name="image_view_rounded_corners">
+        <item name="cornerSizeTopRight">8dp</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+        <item name="cornerSizeBottomLeft">8dp</item>
+
+    </style>
+    <style name="YellowRatingBar" parent="Widget.AppCompat.RatingBar">
+        <item name="colorControlNormal">#FDB022</item>
+        <item name="colorControlActivated">#FDB022</item>
+    </style>
+
+</resources>

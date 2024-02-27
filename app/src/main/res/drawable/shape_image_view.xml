@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- custom_shape.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="8dp"> <!-- Set the top corner radius as per your preference -->
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/black" /> <!-- Set the desired background color -->
+            <corners android:radius="16dp" /> <!-- Set the top corner radius as per your preference -->
+        </shape>
+    </item>
+    <item android:bottom="8dp"> <!-- Set the bottom corner radius as per your preference -->
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/black" /> <!-- Set the desired background color -->
+        </shape>
+    </item>
+</layer-list>
+
